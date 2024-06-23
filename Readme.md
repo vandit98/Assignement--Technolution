@@ -33,7 +33,7 @@ This Python application is a command-line based Library Management System. It al
 1. **Installation**:
    - Clone the repository:
      ```
-     git clone https://github.com/your/repository.git
+     git clone https://github.com/vandit98/Assignement--Technolution.git
      ```
    - Install dependencies (if any).
 
